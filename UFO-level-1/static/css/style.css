@@ -57,6 +57,14 @@ body {
   margin-top: 50px;
 }
 
+#filter-btn {
+  background-color: #1b3146;
+  color: white;
+  bottom: 5px;
+  left: 15px;
+  position: relative;
+}
+
 .filters .panel-body {
   padding: 0;
 }
